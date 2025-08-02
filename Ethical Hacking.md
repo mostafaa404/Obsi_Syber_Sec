@@ -698,6 +698,30 @@ tracert 10.10.250.91
 `-c 45` ------------> (connections) ده غالبًا عدد الاتصالات المتزامنة 
 
 
+شسيشيشسي
+سشسيشيسيش
+شس
+
+git init
+git remote add origin https://github.com/mostafaa404/Obsi_Syber_Sec.git
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+
+git config --global user.name "Mostafa Abd Elsamie"
+git config --global user.email "mostafaabdelsamie44@gmail.com"
+
+git remote set-url origin https://github.com/mostafaa404/Obsi_Syber_Sec.git
+
+
+
+
+
+
+
+
 
 
 
