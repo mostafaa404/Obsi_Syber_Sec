@@ -642,7 +642,8 @@ tracert 10.10.250.91
 
 - موقعين مهمة ل البحث عن ثغرة فيهم `Rapid7 && Exploit-DB`
 
-![[images/Ethical Hacking/10.png]]
+![10.png](images/Ethical_Hacking/10.png)
+
 
 
 
