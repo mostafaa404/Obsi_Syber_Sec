@@ -642,7 +642,11 @@ tracert 10.10.250.91
 
 - موقعين مهمة ل البحث عن ثغرة فيهم `Rapid7 && Exploit-DB`
 
-![[10.png]]
+![[images/Ethical Hacking/10.png]]
+
+
+
+
 
 - ننزل المكتبة دي ولو في `Error`  نبحث ونحله ====> Chat GPT
 	
