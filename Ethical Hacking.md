@@ -13,8 +13,7 @@ controls to gain ==unauthorized access to a system's resources==
 - Cyber Terrorist        الارهاب, بيحب يعمل دوشة ف العالم وخلاص 
 - State-Sponsored    الجيش الاكتروني للدولة
 - Hacktivist               شخص عنده قضية معينة وبيدافع عنها 
-
-![[Syber Security.png]]
+![Syber_Security.png](images/Ethical_Hacking/Syber_Security.png)
 
 
 ### Hacking Phases خطوات 
@@ -40,7 +39,11 @@ sudo apt install whois -y
 whois tryhackme.com
 ```
 
-![[Screenshot 2025-07-28 222331.png]]
+![](images/Ethical_Hacking/1.png)
+
+
+
+
 #### **تواريخ مهمة:**
 
 - **Creation Date** – تاريخ إنشاء الدومين.
@@ -93,7 +96,10 @@ whois tryhackme.com
 nslookup -type=A tryhackme.com 1.1.1.1
 ```
 
-![[Screenshot 2025-07-28 225622 1.png]]
+![](images/Ethical_Hacking/2.png)
+
+
+
 
 
 
@@ -142,8 +148,9 @@ dig @1.1.1.1 tryhackme.com MX --> تحديد سيرفر DNS
 dig thmlabs.com TXT
 
 ```
+![](images/Ethical_Hacking/*.png)
 
-![[Screenshot 2025-07-28 234400.png]]
+![](images/Ethical_Hacking/3.png)
 
 #### الفرق بين `dig` و `nslookup` و `whois`:
 
@@ -634,15 +641,16 @@ tracert 10.10.250.91
 
 ***
 ***
-	***
-![[Screenshot 2025-08-01 175339.png]]
+***
+
+![](images/Ethical_Hacking/4.png)
  `ssl/https         Apache httpd 1.3.20`
  
 بعد ما عملنا فحص وعرفنا ان في خدمة `service` مفتوحة وبحثنا عليها ولقينا ثغرات فيه بالـ `Version`  ونزلنا الملف هنفتحة ونشوف `المطلوب`
 
 - موقعين مهمة ل البحث عن ثغرة فيهم `Rapid7 && Exploit-DB`
 
-![10.png](images/Ethical_Hacking/10.png)
+![](images/Ethical_Hacking/5.png)
 
 
 
